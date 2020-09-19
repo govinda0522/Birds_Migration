@@ -19,9 +19,14 @@ track flight speed, learn about  daytime and much, much more.
 
 
 Order of Project subparts :
+
 1.bird_migration_trajectories_lat.long.py
+
 2.bird_migration_speed.py
+
 3.bird_migration_date.time.py
+
 4.bird_migration_daily_mean_speed.py
+
 5.bird_migration_cartographic.py
 
